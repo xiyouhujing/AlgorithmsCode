@@ -9,5 +9,5 @@ def count_keys_equal(seq, m):
     return equal
 
 if __name__ == '__main__':
-    seq = [11, 20, 13, 15, 6, 14, 7, 13, 17, 9]
-    print count_keys_equal(seq, 20)
+    seq = [4, 1, 5, 0, 1, 6, 5, 1, 5, 3]
+    print count_keys_equal(seq, 7)
