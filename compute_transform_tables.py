@@ -27,7 +27,7 @@ def compute_transform_tables(X, Y, cc, cr, cd, ci):
     return cost, op
 
 if __name__ == '__main__':
-    X = 'ACAACG'
+    X = 'ACAAGC'
     Y = 'CCGT'
     cc = -1
     cr = 1
